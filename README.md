@@ -73,6 +73,11 @@ ______________________________________________________________________
 python manage.py runserver                                              
 ______________________________________________________________________
 
+
+## 📬 API Testing
+You can import this [Postman Collection](./smarttask_postman_collection.json) into Postman to test all APIs easily.
+
+
 **Backend will be available at:
 ➡ http://127.0.0.1:8000/**
 
