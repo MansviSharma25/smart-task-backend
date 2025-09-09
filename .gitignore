@@ -1,0 +1,5 @@
+venv/        # virtual environment ignore hoga (har machine pe naya banta hai)
+__pycache__/ # Python cache files ignore hongi (zaroori nahi hote)
+*.sqlite3    # local database file ignore hogi (taaki sensitive data na jaye)
+.env         # environment variables ignore hongi (secret keys safe rahengi)
+*.pyc        # compiled python files ignore hongi
